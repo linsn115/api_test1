@@ -1,0 +1,11 @@
+[2020-10-20 15:32:17] [INFO] this is info
+[2020-10-20 15:32:17] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2020-10-20 15:32:17] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2020-10-20 15:32:17] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2020-10-20 15:32:17] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2020-10-20 15:32:17] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2020-10-20 15:32:17] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2020-10-20 15:32:17] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2020-10-20 15:32:17] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2020-10-20 15:32:17] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2020-10-20 15:32:17] [DEBUG] http://192.168.2.73:999 "GET /kunheng-anchor/goods/listTenantGoods?current=1&size=10 HTTP/1.1" 200 None
